@@ -1,2 +1,1 @@
-lst = [1, 3]
-print(lst[-1])
+print("Hello world")
